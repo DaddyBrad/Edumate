@@ -1,0 +1,2 @@
+# Edumate
+Student Result Generator
